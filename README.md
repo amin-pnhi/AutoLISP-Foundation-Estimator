@@ -34,9 +34,3 @@ The program automatically detects:
 
 
 ---
-
-# Calculation Method
-
-## Net Area
-
-The application calculates:
